@@ -1,0 +1,11 @@
+#merkspiel {
+   border:1px solid black;
+   margin:0px;
+   padding:0px;
+   width: 640px;
+}
+
+#merkspiel img {
+  margin:3px;
+  padding:0px;
+}
